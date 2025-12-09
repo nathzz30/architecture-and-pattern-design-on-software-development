@@ -27,9 +27,6 @@ The main goal of this repository is to gather in a single place a reference guid
 └── README.md ← This file
 ```
 
-
-As the repository grows, you may want to group documents into subfolders (e.g. `/patterns/`, `/architectures/`, `/resources/`) to keep things organized.
-
 ## 🚀 How to Use
 
 Simply browse the `.md` files to read about each architecture or pattern.  
